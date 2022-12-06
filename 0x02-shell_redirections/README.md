@@ -1,1 +1,1 @@
-tr -d cC
+21-reverse
